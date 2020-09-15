@@ -28,6 +28,13 @@
     color: #fff;
 }
 
+.img-course {
+  width: auto;
+  max-width: 83em;
+  height: auto;
+  max-height: 83em;
+}
+
 /* Change navbar styling on scroll */
 .navbar.active {
     background: #fff;
